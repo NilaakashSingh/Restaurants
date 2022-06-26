@@ -13,4 +13,4 @@ Xcode 13, Swift 5.
 2. For running individual test cases go to specific test case file and click on run from left bar.
 
 ### Sample output
-![](Demo.gif)
+![](demo.gif)
