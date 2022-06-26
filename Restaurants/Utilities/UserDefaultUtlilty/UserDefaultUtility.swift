@@ -14,7 +14,7 @@ final class UserDefaultsManager {
 
     // MARK: - Initialiser
     init(userDefaults: UserDefaults = UserDefaults.standard) {
-        self.userDefaults = UserDefaults.standard
+        self.userDefaults = userDefaults
     }
 
     // MARK: - Methods
